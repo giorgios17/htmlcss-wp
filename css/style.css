@@ -28,6 +28,8 @@ nav ul li a{
     color: rgb(147 147 147);
 }
 
+/* LOGO E NAVIGAZIONE */
+
 .logo{
     height: 65px;
     margin-top: 10px;
@@ -45,6 +47,8 @@ nav ul li{
 nav ul li a {
     text-decoration: none;
 }
+
+/* IN PRIMO PIANO */
 
 .jumbotron{
     margin-bottom: 25px;
@@ -73,6 +77,8 @@ nav ul li a {
     padding-top: 350px;
     font-size: 30px;
 }
+
+/* INIZIO MAIN */
 
 .main-header{
     height: 80px;
@@ -130,6 +136,8 @@ nav ul li a {
     margin-top: 22px;
     margin-bottom: 22px;
 } 
+
+/* FOOTER */
 
 footer{
     height: 60px;
