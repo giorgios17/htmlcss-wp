@@ -5,15 +5,31 @@
 }
 
 body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
     width: 50%;
     margin:auto;
 }
 
-header{
-    background-color: #e579e6;
-    height: 120px;
+.logo{
+    height: 65px;
     margin-top: 10px;
     margin-bottom: 25px;
+    padding-right: 20px;
+    border-right: 2px solid rgb(238 238 238);
+}
+
+nav ul li{
+    display: inline-block;
+    list-style-type: none;
+    margin: 20px 12px 35px 0px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: rgb(147 147 147);
 }
 
 .section-top{
